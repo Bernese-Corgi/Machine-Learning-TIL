@@ -158,3 +158,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+docs/
+openai-pinecone/data/blog_posts.csv
+openai-embedding/data/fine_food_reviews_with_embeddings_1k.csv
+openai-embedding/data/fine_food_reviews_1k.csv
